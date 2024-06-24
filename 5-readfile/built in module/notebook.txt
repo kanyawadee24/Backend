@@ -1,0 +1,16 @@
+{
+  "cpu": {
+    "model": "Apple M1",
+    "speed": 2400,
+    "times": {
+      "user": 48832300,
+      "nice": 0,
+      "sys": 30021880,
+      "idle": 230764700,
+      "irq": 0
+    }
+  },
+  "totalmemory": 8.589934592,
+  "platform": "darwin",
+  "architecture": "arm64"
+}
